@@ -65,6 +65,8 @@ A plot of the learned probability density function ( p(z) ) versus ( z ) is gene
 The curve exhibits a smooth bell-shaped structure, confirming that the estimated parameters
 appropriately model the transformed data distribution.
 
+![Learned Probability Density Function](pdf_plot.png)
+
 5. Discussion
 The non-linear transformation slightly perturbs the original NO₂ distribution while preserving
 its overall structure. The learned PDF parameters successfully capture the central tendency
